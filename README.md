@@ -1,4 +1,4 @@
-dmin Cert Prep Modules - Trailhead
+Admin Cert Prep Modules - Trailhead
 
 Configuration & Setup
 
